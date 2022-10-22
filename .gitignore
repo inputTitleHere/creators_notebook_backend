@@ -3,6 +3,19 @@ HELP.md
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,eclipse,java,windows
 
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
 ### Eclipse ###
 .metadata
 bin/
