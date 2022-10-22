@@ -3,6 +3,8 @@ HELP.md
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,eclipse,java,windows
 
+application.properties
+
 ### Maven ###
 target/
 pom.xml.tag
